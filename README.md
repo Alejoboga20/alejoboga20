@@ -27,6 +27,7 @@ I'm from Argentina, born and raised in the poorest province of the country. Desp
 - **Timecast**: An internal tool for tracking employees' hours. Built from scratch using React, TailwindCSS, TypeScript, and AWS Cognito. [Check it out!](https://rs-trackit.com/)
 
 ## 🛠️ Personal Projects for Fun and Learning
+- **NoC - Multi-DataSource-Platform**: A platform to monitor your web services written in Go. [Check it out!](https://github.com/Alejoboga20/go-noc-system)
 - **GifyApp**: A simple app to learn the basics of React JS using TailwindCSS for Responsive Design and TypeScript for type-safety. [Check it out](https://ts-gify-app.vercel.app/)
 
 ---
