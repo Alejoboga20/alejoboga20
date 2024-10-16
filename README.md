@@ -12,7 +12,7 @@ I'm from Argentina, born and raised in the poorest province of the country. Desp
 
 ## 🔧 Skills & Expertise
 
-- **Languages**: JavaScript, TypeScript, Python
+- **Languages**: TypeScript, Python, Go
 - **Technologies**: ReactJS, Next JS, Node Js, NestJS, React Native
 
 ---
